@@ -87,7 +87,7 @@ python app.py
 http://127.0.0.1:5000/
 
 🙋‍♀️ Author:
- Y N Madhumitha Chowdary
+ S Venkata Rajesh
 
 📚 License:
 This project is for academic and demonstration purposes only. Not intended for actual clinical use without validation.
