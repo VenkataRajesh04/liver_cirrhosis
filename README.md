@@ -72,7 +72,7 @@ Each phase includes markdown documents, notebooks, visuals, and implementation d
 ▶️ Steps
 1.Clone the repository:
 
-https://github.com/madhumitha-2004/liver_cirrhosis.git
+https://github.com/VenkataRajesh04/liver_cirrhosis.git
 
 2.Navigate to project folder:
 
